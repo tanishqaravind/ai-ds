@@ -1,0 +1,19 @@
+{
+  "eventName": {
+    "GetObject": 0,
+    "ListBuckets": 1,
+    "PutObject": 2
+  },
+  "userRole": {
+    "admin": 0,
+    "analyst": 1,
+    "developer": 2,
+    "unknown": 3
+  },
+  "geoLocation.country": {
+    "Netherlands": 0,
+    "Romania": 1,
+    "Russia": 2,
+    "United States": 3
+  }
+}
